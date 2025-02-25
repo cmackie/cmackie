@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Links
+
+[LinkedIn Profile](https://www.linkedin.com/in/christopher-mackie-881903b0/)
