@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My password is password123. Good thing I'll never commit that in git.
+
 <!--
 **cmackie/cmackie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
